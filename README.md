@@ -1,7 +1,8 @@
 # decrypt-chrome-passwords-and-cookies
+
 Decrypt encrypted passwords and cookies saved in all versions of Chrome
 
-### Requierement
+### Requirement
 
     - Crypto++® Library 8.7
     - cJSON
